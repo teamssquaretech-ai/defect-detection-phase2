@@ -1,0 +1,17 @@
+Accuracy: 30.41 %
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      Bridge       0.41      0.69      0.51        32
+         CMP       0.00      0.00      0.00        30
+       Clean       0.07      0.09      0.08        33
+       Crack       0.52      0.52      0.52        31
+         LER       0.86      0.60      0.71        30
+        Open       0.34      0.43      0.38        30
+       Other       0.22      0.07      0.11        80
+         VIA       0.50      0.40      0.44        30
+
+    accuracy                           0.30       296
+   macro avg       0.36      0.35      0.34       296
+weighted avg       0.34      0.30      0.30       296
